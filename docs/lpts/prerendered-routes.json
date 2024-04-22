@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/",
+    "/adm-home",
+    "/home"
+  ]
+}
